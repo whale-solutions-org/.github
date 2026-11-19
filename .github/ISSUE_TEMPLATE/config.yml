@@ -1,0 +1,6 @@
+# Configuración de los templates de issue (org-wide)
+blank_issues_enabled: false
+contact_links:
+  - name: "🛡️ Reportar una vulnerabilidad de seguridad"
+    url: https://github.com/whale-solutions-org/security/advisories/new
+    about: Por favor NO abras un issue público para vulnerabilidades. Usa el advisory privado.
